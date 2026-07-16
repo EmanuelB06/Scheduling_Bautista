@@ -1,0 +1,9 @@
+List the workflow of using Git.
+
+1. Open cmd (Windows + R)
+2. Initiaize your local repository (git init)
+3. git remote add origin "your repository link"
+4. git add .
+5. git commit -m "description"
+6. git branch -M main
+7. git push -u origin main
